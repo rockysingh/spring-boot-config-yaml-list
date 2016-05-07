@@ -1,0 +1,9 @@
+students:
+  teacher: Mr Bloggs
+  studentList:
+    -
+      name: T.J Rocks
+    -
+      name: John Smith
+    -
+      name: Amy Johnson
